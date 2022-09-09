@@ -16,7 +16,7 @@ export default function App() {
 
   function onSearch(ciudad) {
     axios(
-      `http://api.openweathermap.org/data/2.5/weather?q=${ciudad}&appid=${apiKey}&units=metric`
+      `https://api.openweathermap.org/data/2.5/weather?q=${ciudad}&appid=${apiKey}&units=metric`
     ).then((respuesta) => {
       if (respuesta.data.main !== undefined) {
         const ciudad = {
