@@ -1,0 +1,18 @@
+#logoHenry {
+  margin-right: 20px;
+}
+
+.barra{
+    margin-bottom: 20px;
+}
+
+.text{
+    position: relative;
+}
+
+.about{
+    position: absolute;
+    color: red;
+    margin-left: 35%;
+    text-decoration: none;    
+}

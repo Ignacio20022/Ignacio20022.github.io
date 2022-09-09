@@ -1,0 +1,22 @@
+.boton{
+    background-image: linear-gradient(to bottom, #eff3f9, #c2d1e9, #96afd9, #6b8dc8, #3c6db7);
+}
+
+.boton:hover{
+    background-image: linear-gradient(to top, #eff3f9, #c2d1e9, #96afd9, #6b8dc8, #3c6db7);
+}
+
+.boton:active{
+    position: relative;
+    
+}
+
+.buscador{
+    background-color: aqua;
+    margin: 0 12px 0 0;
+    border-radius: 12px;
+}
+
+::placeholder{
+    color: red;
+}

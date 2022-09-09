@@ -1,0 +1,40 @@
+.nombreCiudad{
+    /* margin-left: 20px; */
+    text-decoration: none;
+    
+}
+
+/* .nombreCiudad:hover{
+    color: red;
+} */
+
+.link:hover{
+    color:red;
+    text-decoration: none;
+}
+
+#button{
+    color: black;
+    border: none;
+    position: absolute;
+    margin-left: 103.7px;
+    /* float: right; */
+    /* margin: 5px 5px 0 0; */
+    background-color: aqua;
+    /* border-radius: 50%; */
+    border-top-right-radius: 12px;
+    outline: none;
+}
+
+#button:hover{
+    background-color: red;
+    color: aqua;
+}
+
+.box{
+    width: 250px;
+    height: 250px;
+    background-color: aqua;
+    border-radius: 12px;
+    display: inline-block;
+}
