@@ -1,7 +1,7 @@
 {
   "name": "09-react-routing",
   "version": "1.0.0",
-  "homepage": "https://ignacio20022.github.io.git",
+  "homepage": "https://ignacio20022.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
